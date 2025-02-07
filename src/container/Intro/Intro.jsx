@@ -1,7 +1,8 @@
 import React from 'react';
 import { BsFillPlayFill, BsPauseFill } from 'react-icons/bs';
 
-import { meal, video } from '../../constants';
+import { 
+   video } from '../../constants';
 import './Intro.css';
 
 const Intro = () => {
