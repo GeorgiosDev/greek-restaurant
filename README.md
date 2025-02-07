@@ -1,6 +1,7 @@
 # 🍽️ Greek Restaurant App
 
-Welcome to the **Greek Restaurant App** 🍔🍝🍷—a modern, fully responsive web application designed to showcase a restaurant's offerings with a sleek UI/UX experience. This project is the second in the [JavaScript Mastery](https://jsmastery.pro/youtube) course series, focusing on practical front-end development skills.
+## 🚀 Live Demo
+Check out the live version: [Demo Link](https://restaurantgd.netlify.app/)
 
 ## 🖋️ Features
 - **Modern UI/UX**: Clean, intuitive design inspired by professional Figma layouts.
