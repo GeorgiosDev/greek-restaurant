@@ -1,0 +1,7 @@
+{
+    "css.completion.completePropertyWithSemicolon": true,
+    "emmet.includeLanguages": {
+        "  plaintext": "css"
+    },
+    "css.validate": true
+}
