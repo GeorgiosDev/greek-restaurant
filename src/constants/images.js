@@ -15,6 +15,7 @@ import award05 from "../assets/award05.png";
 import quote from "../assets/quote.png";
 import logo1 from "../assets/logo1.jpg";
 import equipment from "../assets/equipment.jpg";
+import menu from "../assets/menu.png"
 
 // Importing the AVIF files
 import recipe1 from "../assets/recipe1.avif";
@@ -51,6 +52,7 @@ const images = {
   recipe6,
   recipe7,
   recipe8,
+  menu,
   recipes: [  // Added this array to simplify mapping
     recipe1,
     recipe2,
@@ -60,6 +62,7 @@ const images = {
     recipe6,
     recipe7,
     recipe8,
+    
   ],
 };
 
